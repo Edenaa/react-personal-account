@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "email": "test@test.ru",
+      "password": "$2a$10$am4h4wkVvyma7M6smygjuOmP9crSmyVMaX0FAa.nqvmrTLPaGFZgm",
+      "id": 1
+    }
+  ],
+  "contacts": [
+    {
+      "id": 2,
+      "name": "Алексей",
+      "surname": "Полторацкий",
+      "phone": "+79991237678",
+      "address": "г. Иванов, ул. цирковая, д.9",
+      "show": true
+    },
+    {
+      "id": 3,
+      "name": "Алексей",
+      "surname": "Мишин",
+      "phone": "+79991237678",
+      "address": "г. Иванов, ул. цирковая, д.90, кв.10",
+      "show": true
+    },
+    {
+      "id": 4,
+      "name": "Мария",
+      "surname": "Белова",
+      "phone": "+79974537678",
+      "address": "г. Москва, ул. центральная, д.45, кв. 5",
+      "show": true
+    },
+    {
+      "id": 5,
+      "name": "Дмитрий",
+      "surname": "Петров",
+      "phone": "+79871547678",
+      "address": "г. Краснодар, ул. комсомольская, д.7",
+      "show": true
+    }
+  ]
+}
